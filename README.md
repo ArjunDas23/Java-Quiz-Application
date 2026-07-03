@@ -7,7 +7,7 @@ This project demonstrates menu-driven programming, arrays, methods, loops, switc
 
 ## Project Flow
 
-![Java Quiz Application Flow](quiz-project-flow.png)
+![Java Quiz Application Flow](quiz-application.png)
 
 ---
 
